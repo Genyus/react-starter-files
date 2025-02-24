@@ -41,7 +41,7 @@ Each task comes with its own dedicated folder. To work on a task, you'll need to
 After entering the specific task's directory, you can initiate the development environment. Simply run the following command from inside the task's directory:
 
 ```sh
-npm run start
+npm run dev
 ```
 
 (Note: Make sure to replace "build-a-car" with the name of the task you're currently tackling.)
